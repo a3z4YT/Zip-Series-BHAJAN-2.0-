@@ -1,0 +1,507 @@
+*{
+    margin: 0px;
+}
+
+p{
+    font-size: 50px;
+    font-family: Arial Rounded MT;
+    font-weight: bold;
+    background-color: brown;
+    color: white;
+    padding: 30px;
+}
+
+header p{
+color: white; 
+font-family: Arial Rounded MT;
+font-size: 45px;
+background-color: rgb(247, 111, 21);
+padding: 50px;
+}
+
+table{
+    align-items: center;
+}
+
+.icn{
+    width: 100px;
+    border: none;
+    border-radius: 50%;
+    background-color: rgb(247, 111, 21);
+}
+
+span{
+    font-size: 20px;
+    padding: 5px;
+    background-color: brown;
+    border-color: black;
+    border-radius: 10px;
+    border: 1px;
+}
+
+.mrk{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 7px;
+}
+
+nav{
+    background-color: orangered;
+    overflow: hidden;
+}
+
+nav a{
+display: block;
+color: white;
+text-decoration: none;
+padding: 14px 20px;
+float: left;
+font-family: Arial;
+font-size: 25px;
+}
+
+.arti{
+    background-color: cyan;
+    color: brown;
+    padding: 7px;
+    font-family: Harlow Solid;
+}
+
+.artii{
+    font-family: Consolas;
+}  
+
+.ganeshchaturthi{
+    width: 600px;
+}
+
+.jaydev{
+    width: 600px;
+}
+
+.jayD{
+    background-color: orange;
+    color: whitesmoke;
+    padding: 7px;
+    font-family: Consolas;
+}
+.aarti{
+    width: 600px;
+    height: 340px;
+}
+
+/*=======   HOVER    ======*/
+a:hover[href = "#"]{
+background-color: white;
+color: black;
+padding: 14px;
+}
+a:hover[href = "##"]{
+background-color: white;
+color: black;
+padding: 14px;
+}
+a:hover[href = "###"]{
+background-color: white;
+color: black;
+padding: 14px;
+}
+a:hover[href = "####"]{
+background-color: white;
+color: black;
+padding: 14px;
+}
+/*==========   HOVER.end     ===========*/
+
+@media screen and (max-width: 600px){
+
+a:hover[href = "#"]{
+background-color: white;
+color: black;
+padding: 12px;
+}
+a:hover[href = "##"]{
+background-color: white;
+color: black;
+padding: 12px;
+}
+a:hover[href = "###"]{
+background-color: white;
+color: black;
+padding: 12px;
+    }
+a:hover[href = "####"]{
+background-color: white;
+color: black;
+padding: 12px;
+}
+
+header p{
+color: white;
+font-family: Arial Rounded MT;
+font-size: 25px;
+background-color: rgb(247, 111, 21);
+padding: 30px;
+}
+
+header p{
+color: white;
+font-family: Arial Rounded MT;
+font-size: 20px;
+background-color: rgb(247, 111, 21);
+padding: 30px;
+}
+
+nav a{
+display: block;
+color: white;
+text-decoration: none;
+padding: 14px 20px;
+float: left;
+font-family: Arial;
+font-size: 9px;
+}
+
+.ganeshchaturthi{
+    width: 330px;
+}
+
+.aarti{
+    width: 330px;
+    height: 200px;
+}
+
+.jaydev{
+    width: 330px;
+}
+
+.jayD{
+    background-color: orange;
+    color: whitesmoke;
+    padding: 10px;
+    font-family: Consolas;
+    font-size: 10px;
+}
+
+}
+
+@media screen and (max-width: 900px){
+
+a:hover[href = "#"]{
+background-color: white;
+color: black;
+padding: 14px;
+}
+a:hover[href = "##"]{
+background-color: white;
+color: black;
+padding: 17px;
+}
+a:hover[href = "###"]{
+background-color: white;
+color: black;
+padding: 17px;
+    }
+a:hover[href = "####"]{
+background-color: white;
+color: black;
+padding: 17px;
+}
+
+header p{
+color: white;
+font-family: Arial Rounded MT;
+font-size: 25px;
+background-color: rgb(247, 111, 21);
+padding: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+nav a{
+display: block;
+color: white;
+text-decoration: none;
+padding: 50;
+float: left;
+font-family: Arial;
+font-size: 20px;
+}
+
+.ganeshchaturthi{
+    width: 330px;
+}
+
+.aarti{
+    width: 330px;
+    height: 200px;
+}
+
+.jaydev{
+    width: 330px;
+}
+
+.jayD{
+    background-color: orange;
+    color: whitesmoke;
+    padding: 10px;
+    font-family: Consolas;
+    font-size: 10px;
+}
+
+} *{
+        margin: 0px;
+    }
+
+    p{
+        font-size: 50px;
+        font-family: Arial Rounded MT;
+        font-weight: bold;
+        background-color: brown;
+        color: white;
+        padding: 30px;
+    }
+
+    header p{
+    color: white; 
+    font-family: Arial Rounded MT;
+    font-size: 45px;
+    background-color: rgb(247, 111, 21);
+    padding: 50px;
+    }
+
+    table{
+        align-items: center;
+    }
+
+    .icn{
+        width: 100px;
+        border: none;
+        border-radius: 50%;
+        background-color: rgb(247, 111, 21);
+    }
+
+    span{
+        font-size: 20px;
+        padding: 5px;
+        background-color: brown;
+        border-color: black;
+        border-radius: 10px;
+        border: 1px;
+    }
+
+    .mrk{
+        background-color: blue;
+        color: whitesmoke;
+        padding: 7px;
+    }
+
+    nav{
+        background-color: orangered;
+        overflow: hidden;
+    }
+
+    nav a{
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 14px 20px;
+	float: left;
+    font-family: Arial;
+    font-size: 25px;
+    }
+
+    .arti{
+        background-color: cyan;
+        color: brown;
+        padding: 7px;
+        font-family: Harlow Solid;
+    }
+
+    .artii{
+        font-family: Consolas;
+    }  
+
+    .ganeshchaturthi{
+        width: 600px;
+    }
+
+    .jaydev{
+        width: 600px;
+    }
+
+    .jayD{
+        background-color: orange;
+        color: whitesmoke;
+        padding: 7px;
+        font-family: Consolas;
+    }
+    .aarti{
+        width: 600px;
+        height: 340px;
+    }
+
+/*=======   HOVER    ======*/
+a:hover[href = "#"]{
+    background-color: white;
+    color: black;
+    padding: 14px;
+}
+a:hover[href = "##"]{
+    background-color: white;
+    color: black;
+    padding: 14px;
+}
+a:hover[href = "###"]{
+    background-color: white;
+    color: black;
+    padding: 14px;
+}
+a:hover[href = "####"]{
+    background-color: white;
+    color: black;
+    padding: 14px;
+}
+/*==========   HOVER.end     ===========*/
+
+    @media screen and (max-width: 600px){
+
+    a:hover[href = "#"]{
+    background-color: white;
+    color: black;
+    padding: 12px;
+    }
+    a:hover[href = "##"]{
+    background-color: white;
+    color: black;
+    padding: 12px;
+    }
+    a:hover[href = "###"]{
+    background-color: white;
+    color: black;
+    padding: 12px;
+        }
+    a:hover[href = "####"]{
+    background-color: white;
+    color: black;
+    padding: 12px;
+    }
+    
+    header p{
+    color: white;
+    font-family: Arial Rounded MT;
+    font-size: 25px;
+    background-color: rgb(247, 111, 21);
+    padding: 30px;
+    }
+
+    header p{
+    color: white;
+    font-family: Arial Rounded MT;
+    font-size: 20px;
+    background-color: rgb(247, 111, 21);
+    padding: 30px;
+    }
+
+    nav a{
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 14px 20px;
+	float: left;
+    font-family: Arial;
+    font-size: 9px;
+    }
+
+    .ganeshchaturthi{
+        width: 330px;
+    }
+
+    .aarti{
+        width: 330px;
+        height: 200px;
+    }
+
+    .jaydev{
+        width: 330px;
+    }
+
+    .jayD{
+        background-color: orange;
+        color: whitesmoke;
+        padding: 10px;
+        font-family: Consolas;
+        font-size: 10px;
+    }
+
+    }
+
+    @media screen and (max-width: 900px){
+
+    a:hover[href = "#"]{
+    background-color: white;
+    color: black;
+    padding: 14px;
+    }
+    a:hover[href = "##"]{
+    background-color: white;
+    color: black;
+    padding: 17px;
+    }
+    a:hover[href = "###"]{
+    background-color: white;
+    color: black;
+    padding: 17px;
+        }
+    a:hover[href = "####"]{
+    background-color: white;
+    color: black;
+    padding: 17px;
+    }
+    
+    header p{
+    color: white;
+    font-family: Arial Rounded MT;
+    font-size: 25px;
+    background-color: rgb(247, 111, 21);
+    padding: 30px;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+    nav a{
+	display: block;
+	color: white;
+	text-decoration: none;
+	padding: 50;
+	float: left;
+    font-family: Arial;
+    font-size: 20px;
+    }
+
+    .ganeshchaturthi{
+        width: 330px;
+    }
+
+    .aarti{
+        width: 330px;
+        height: 200px;
+    }
+
+    .jaydev{
+        width: 330px;
+    }
+
+    .jayD{
+        background-color: orange;
+        color: whitesmoke;
+        padding: 10px;
+        font-family: Consolas;
+        font-size: 10px;
+    }
+
+    }
